@@ -1,2 +1,2 @@
-# Python-from-Starting
-This Repository Contain Python understanding from beginner level to intermediate and higher.  I started this so I can learn python again and I am taking help of YouTube to learn it.    
+# Python-from-Starting😊😊
+This Repository Contains Python understanding from beginner level to intermediate and higher. I started this so I could learn Python again, and I am using YouTube to learn it.    
